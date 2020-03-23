@@ -1,0 +1,7 @@
+label {
+    padding-top: 10px;
+}
+
+.inputError {
+    border: 1px solid red;
+}
